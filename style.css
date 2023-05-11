@@ -23,7 +23,7 @@ body {
   width: 100vw;
   height: 880px;
   z-index: 0;
-  background-image: url("/images/main-background.png");
+  background-image: url("images/main-background.png");
   background-position: bottom;
   background-size: cover;
 }
